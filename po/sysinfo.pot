@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sysinfo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sysinfo 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-14 21:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/sysinfo.sh:66
+msgid "Module information"
+msgstr ""
+
+#: src/sysinfo.sh:66 src/sysinfo.sh:193
+msgid "Close"
+msgstr ""
+
+#: src/sysinfo.sh:73
+msgid "CPU information"
+msgstr ""
+
+#: src/sysinfo.sh:74 src/sysinfo.sh:103 src/sysinfo.sh:108
+msgid "Parameter"
+msgstr ""
+
+#: src/sysinfo.sh:74 src/sysinfo.sh:103 src/sysinfo.sh:108
+msgid "Value"
+msgstr ""
+
+#: src/sysinfo.sh:75
+msgid "Copy"
+msgstr ""
+
+#: src/sysinfo.sh:93 src/sysinfo.sh:195
+msgid "GPU"
+msgstr ""
+
+#: src/sysinfo.sh:94
+msgid "Driver"
+msgstr ""
+
+#: src/sysinfo.sh:95
+msgid "Resolution"
+msgstr ""
+
+#: src/sysinfo.sh:96
+msgid "Renderer"
+msgstr ""
+
+#: src/sysinfo.sh:97
+msgid "OpenGL"
+msgstr ""
+
+#: src/sysinfo.sh:98
+msgid "Session"
+msgstr ""
+
+#: src/sysinfo.sh:101
+msgid "GPU information"
+msgstr ""
+
+#: src/sysinfo.sh:107
+msgid "Memory usage information"
+msgstr ""
+
+#: src/sysinfo.sh:112
+msgid "Disk space usage"
+msgstr ""
+
+#: src/sysinfo.sh:113 src/sysinfo.sh:120 src/sysinfo.sh:132 src/sysinfo.sh:144
+msgid "Device"
+msgstr ""
+
+#: src/sysinfo.sh:113
+msgid "Mountpoint"
+msgstr ""
+
+#: src/sysinfo.sh:113
+msgid "Type"
+msgstr ""
+
+#: src/sysinfo.sh:114
+msgid "Total:"
+msgstr ""
+
+#: src/sysinfo.sh:114
+msgid "Free:"
+msgstr ""
+
+#: src/sysinfo.sh:114
+msgid "Usage:"
+msgstr ""
+
+#: src/sysinfo.sh:118
+msgid "PCI bus devices"
+msgstr ""
+
+#: src/sysinfo.sh:119
+msgid "ID"
+msgstr ""
+
+#: src/sysinfo.sh:119
+msgid "Class"
+msgstr ""
+
+#: src/sysinfo.sh:120
+msgid "Vendor"
+msgstr ""
+
+#: src/sysinfo.sh:120
+msgid "Revision"
+msgstr ""
+
+#: src/sysinfo.sh:124
+msgid "Loaded kernel modules"
+msgstr ""
+
+#: src/sysinfo.sh:127
+msgid "Name"
+msgstr ""
+
+#: src/sysinfo.sh:127
+msgid "Used"
+msgstr ""
+
+#: src/sysinfo.sh:127
+msgid "Depends"
+msgstr ""
+
+#: src/sysinfo.sh:131
+msgid "Battery state"
+msgstr ""
+
+#: src/sysinfo.sh:132
+msgid "Details"
+msgstr ""
+
+#: src/sysinfo.sh:142
+msgid "Network information"
+msgstr ""
+
+#: src/sysinfo.sh:182
+msgid "Hardware system information"
+msgstr ""
+
+#: src/sysinfo.sh:183
+msgid "OS"
+msgstr ""
+
+#: src/sysinfo.sh:183
+msgid "on"
+msgstr ""
+
+#: src/sysinfo.sh:184
+msgid "Not installed"
+msgstr ""
+
+#: src/sysinfo.sh:186
+msgid "Moskha"
+msgstr ""
+
+#: src/sysinfo.sh:187
+msgid "Kernel"
+msgstr ""
+
+#: src/sysinfo.sh:193
+msgid "System information"
+msgstr ""
+
+#: src/sysinfo.sh:194
+msgid "Copy report"
+msgstr ""
+
+#: src/sysinfo.sh:195
+msgid "CPU"
+msgstr ""
+
+#: src/sysinfo.sh:195
+msgid "Memory"
+msgstr ""
+
+#: src/sysinfo.sh:196
+msgid "Disks"
+msgstr ""
+
+#: src/sysinfo.sh:196
+msgid "PCI"
+msgstr ""
+
+#: src/sysinfo.sh:196
+msgid "Modules"
+msgstr ""
+
+#: src/sysinfo.sh:197
+msgid "Battery"
+msgstr ""
+
+#: src/sysinfo.sh:197
+msgid "Network"
+msgstr ""
+
+#: data/sysinfo.desktop.in.h:1
+msgid "System Information"
+msgstr ""
+
+#: data/sysinfo.desktop.in.h:2
+msgid "Display hardware and system information"
+msgstr ""
