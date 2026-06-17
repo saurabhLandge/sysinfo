@@ -1,0 +1,237 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sysinfo package.
+# Štefan Uram <thewaiter@bodhilinux.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sysinfo 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-17 16:24+0200\n"
+"PO-Revision-Date: 2026-06-15 12:13+0200\n"
+"Last-Translator: Štefan Uram <thewaiter@bodhilinux.com>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/sysinfo.sh:66
+msgid "Module information"
+msgstr "Informácie o module"
+
+#: src/sysinfo.sh:66 src/sysinfo.sh:223
+msgid "Close"
+msgstr "Zavrieť"
+
+#: src/sysinfo.sh:86
+msgid "Threads"
+msgstr "Vlákna"
+
+#: src/sysinfo.sh:89
+msgid "CPU Cores"
+msgstr "Jadrá CPU"
+
+#: src/sysinfo.sh:92
+msgid "Sockets"
+msgstr "Pätice"
+
+#: src/sysinfo.sh:95
+msgid "Threads per core"
+msgstr "Vlákien na jadro"
+
+#: src/sysinfo.sh:103
+msgid "CPU information"
+msgstr "Informácie o CPU"
+
+#: src/sysinfo.sh:104 src/sysinfo.sh:133 src/sysinfo.sh:138
+msgid "Parameter"
+msgstr "Parameter"
+
+#: src/sysinfo.sh:104 src/sysinfo.sh:133 src/sysinfo.sh:138
+msgid "Value"
+msgstr "Hodnota"
+
+#: src/sysinfo.sh:105
+msgid "Copy"
+msgstr "Kopírovať"
+
+#: src/sysinfo.sh:123 src/sysinfo.sh:225
+msgid "GPU"
+msgstr "GPU"
+
+#: src/sysinfo.sh:124
+msgid "Driver"
+msgstr "Ovládač"
+
+#: src/sysinfo.sh:125
+msgid "Resolution"
+msgstr "Rozlíšenie"
+
+#: src/sysinfo.sh:126
+msgid "Renderer"
+msgstr "Vykresľovač"
+
+#: src/sysinfo.sh:127
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: src/sysinfo.sh:128
+msgid "Session"
+msgstr "Relácia"
+
+#: src/sysinfo.sh:131
+msgid "GPU information"
+msgstr "Informácie o GPU"
+
+#: src/sysinfo.sh:137
+msgid "Memory usage information"
+msgstr "Informácie o využití pamäte"
+
+#: src/sysinfo.sh:142
+msgid "Disk space usage"
+msgstr "Využitie miesta na disku"
+
+#: src/sysinfo.sh:143 src/sysinfo.sh:150 src/sysinfo.sh:162 src/sysinfo.sh:174
+msgid "Device"
+msgstr "Zariadenie"
+
+#: src/sysinfo.sh:143
+msgid "Mountpoint"
+msgstr "Prípojný bod"
+
+#: src/sysinfo.sh:143
+msgid "Type"
+msgstr "Typ"
+
+#: src/sysinfo.sh:144
+msgid "Total:"
+msgstr "Celkom:"
+
+#: src/sysinfo.sh:144
+msgid "Free:"
+msgstr "Voľné:"
+
+#: src/sysinfo.sh:144
+msgid "Usage:"
+msgstr "Využitie:"
+
+#: src/sysinfo.sh:148
+msgid "PCI bus devices"
+msgstr "Zariadenia zbernice PCI"
+
+#: src/sysinfo.sh:149
+msgid "ID"
+msgstr "ID"
+
+#: src/sysinfo.sh:149
+msgid "Class"
+msgstr "Trieda"
+
+#: src/sysinfo.sh:150
+msgid "Vendor"
+msgstr "Výrobca"
+
+#: src/sysinfo.sh:150
+msgid "Revision"
+msgstr "Revízia"
+
+#: src/sysinfo.sh:154
+msgid "Loaded kernel modules"
+msgstr "Načítané moduly jadra"
+
+#: src/sysinfo.sh:157
+msgid "Name"
+msgstr "Názov"
+
+#: src/sysinfo.sh:157
+msgid "Used"
+msgstr "Použité"
+
+#: src/sysinfo.sh:157
+msgid "Depends"
+msgstr "Závislosti"
+
+#: src/sysinfo.sh:161
+msgid "Battery state"
+msgstr "Stav batérie"
+
+#: src/sysinfo.sh:162
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: src/sysinfo.sh:172
+msgid "Network information"
+msgstr "Informácie o sieti"
+
+#: src/sysinfo.sh:212
+msgid "Hardware system information"
+msgstr "Informácie o hardvéri systému"
+
+#: src/sysinfo.sh:213
+msgid "OS"
+msgstr "OS"
+
+#: src/sysinfo.sh:213
+msgid "on"
+msgstr "na"
+
+#: src/sysinfo.sh:214
+msgid "Not installed"
+msgstr "Nie je nainštalované"
+
+#: src/sysinfo.sh:216
+msgid "Moskha"
+msgstr "Moskha"
+
+#: src/sysinfo.sh:217
+msgid "Kernel"
+msgstr "Jadro"
+
+#: src/sysinfo.sh:223
+msgid "System information"
+msgstr "Informácie o systéme"
+
+#: src/sysinfo.sh:224
+msgid "Copy report"
+msgstr "Kopírovať správu"
+
+#: src/sysinfo.sh:225
+msgid "CPU"
+msgstr "CPU"
+
+#: src/sysinfo.sh:225
+msgid "Memory"
+msgstr "Pamäť"
+
+#: src/sysinfo.sh:226
+msgid "Disks"
+msgstr "Disky"
+
+#: src/sysinfo.sh:226
+msgid "PCI"
+msgstr "PCI"
+
+#: src/sysinfo.sh:226
+msgid "Modules"
+msgstr "Moduly"
+
+#: src/sysinfo.sh:227
+msgid "Battery"
+msgstr "Batéria"
+
+#: src/sysinfo.sh:227
+msgid "Network"
+msgstr "Sieť"
+
+#: data/sysinfo.desktop.in.h:1
+msgid "System Information"
+msgstr "Informácie o systéme"
+
+#: data/sysinfo.desktop.in.h:2
+msgid "Display hardware and system information"
+msgstr "Zobraziť informácie o hardvéri a systéme"
+
+#: data/sysinfo.desktop.in.h:3
+msgid "system;hardware;cpu;memory;disk;pci;network;battery;"
+msgstr "systém;hardvér;cpu;pamäť;disk;pci;sieť;batéria;"
