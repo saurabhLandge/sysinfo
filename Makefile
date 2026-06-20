@@ -7,8 +7,8 @@ datadir = $(prefix)/share
 localedir = $(datadir)/locale
 
 INSTALL = install -c
-INSTALL_DATA = $(INSTALL) -m 644
-INSTALL_PROGRAM = $(INSTALL) -m 755
+INSTALL_DATA = $(INSTALL) -s -m 644
+INSTALL_PROGRAM = $(INSTALL) -s -m 755
 MKDIR_P = mkdir -p
 
 INTLTOOL_MERGE = intltool-merge
