@@ -81,13 +81,13 @@ install: all $(MO_FILES)
 		$(MKDIR_P) $(DESTDIR)$(localedir)/$$lang/LC_MESSAGES; \
 		$(INSTALL_DATA) po/$$lang.mo $(DESTDIR)$(localedir)/$$lang/LC_MESSAGES/$(PACKAGE).mo; \
 	done
-	
+
 # UNINSTALL
 
-uninstall: 
-	rm -f $(DESTDIR)$(bindir)/sysinfo 
-	rm -f $(DESTDIR)$(datadir)/applications/sysinfo.desktop 
-	rm -f $(DESTDIR)$(datadir)/icons/hicolor/256x256/apps/sysinfo.png 
+uninstall:
+	rm -f $(DESTDIR)$(bindir)/sysinfo
+	rm -f $(DESTDIR)$(datadir)/applications/sysinfo.desktop
+	rm -f $(DESTDIR)$(datadir)/icons/hicolor/256x256/apps/sysinfo.png
 	rm -rf $(DESTDIR)$(localedir)/*/LC_MESSAGES/$(PACKAGE).mo
 
 # CLEAN
